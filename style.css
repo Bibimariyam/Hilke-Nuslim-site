@@ -1,0 +1,17 @@
+:root {
+    --color1: #05b1b1;
+    --color2: #6405b1;
+}
+
+header,
+footer,
+section {
+    padding: 100px 0;
+}
+
+header {
+    padding: 200px 0;
+}
+
+header,
+footer {}
